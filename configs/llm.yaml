@@ -1,0 +1,8 @@
+llm_cmd: "claude -p default -m claude-3-5-sonnet -t 0"
+simulate:
+  temperature: 0
+  include_help: true
+translate:
+  temperature: 0.2
+judge:
+  enabled: false

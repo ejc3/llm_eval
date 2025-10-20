@@ -1,0 +1,4 @@
+dimensions:
+  model: [claude-3-5-sonnet, claude-3-haiku]
+  tools_mode: [mock]
+  engine: [chat]

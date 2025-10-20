@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+runtime/
+.mock/bin/
+.mypy_cache/
+venv/
+.env/
+.DS_Store
